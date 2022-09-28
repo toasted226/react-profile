@@ -1,0 +1,26 @@
+.nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 1rem;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: #21222A;
+    border-bottom: 1px solid #e9ecef;
+}
+
+h3 {
+    color: #61DAFB;
+    font-size: 1.5rem;
+    font-weight: 500;
+    margin: 0;
+    margin-left: 10px;
+}
+
+h4 {
+    color: #fff;
+}
+
+.logo-title {
+    display: flex;
+}

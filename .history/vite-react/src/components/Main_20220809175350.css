@@ -1,0 +1,14 @@
+.main-content {
+    margin: 57px 27px;
+    color: #fff;
+}
+
+h1 {
+    font-size: 39px;
+    letter-spacing: -0.05em;
+}
+
+ul > li {
+    margin: 20px 0px;
+    max-width: 350px;
+}

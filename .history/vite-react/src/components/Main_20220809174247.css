@@ -1,0 +1,10 @@
+.main-content {
+    margin: 57px 27px;
+    color: #fff;
+}
+
+ul > li {
+    font-size: 0.8rem;
+    margin: 20px 0px;
+    fill: solid #61DAFB;
+}

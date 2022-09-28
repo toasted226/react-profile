@@ -1,0 +1,20 @@
+.main-content {
+    margin: 57px 27px;
+    color: #fff;
+    background-image: url("../assets/react.svg");
+}
+
+h1 {
+    font-size: 39px;
+    letter-spacing: -0.05em;
+}
+
+ul > li {
+    margin: 10px 0px;
+    max-width: 380px;
+}
+
+ul > li::marker {
+    color: #61DAFB;
+    font-size: 1.4em;
+}

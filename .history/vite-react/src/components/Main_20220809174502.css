@@ -1,0 +1,13 @@
+.main-content {
+    margin: 57px 27px;
+    color: #fff;
+}
+
+h1 {
+    font-size: 39px;
+}
+
+ul > li {
+    font-size: 0.8rem;
+    margin: 20px 0px;
+}
